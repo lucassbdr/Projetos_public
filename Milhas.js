@@ -10,3 +10,4 @@ let km = mi / 0.62137;
 km = km.toFixed(2);
 
 console.log(mi + "mi equivale a "+km+"km");
+console.log("Fim da conversao!!");

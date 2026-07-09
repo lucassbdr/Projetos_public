@@ -1,0 +1,24 @@
+{
+  "name": "projetos_public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Milhas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassbdr/Projetos_public.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lucassbdr/Projetos_public/issues"
+  },
+  "homepage": "https://github.com/lucassbdr/Projetos_public#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
